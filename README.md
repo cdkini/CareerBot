@@ -18,7 +18,10 @@ Create your own credentials file for the bot's token and save it in the main dir
 
 # Usage
 ![CareerBot Functions](images/all_functions.PNG)
-CareerBot functions are split into three primary categories: General, Query, and Database.
+CareerBot functions are split into three primary categories: 
+* <b>General</b>: Basic commands to talk to CareerBot.
+* <b>Query</b>: Commands regarding the generation of job results based on given criteria.
+* <b>Database</b>: Commands used to access and/or delete saved job results from prior queries.
 
 Functions are called using "-function." For example:
 -hello --> Returns a greeting. 
