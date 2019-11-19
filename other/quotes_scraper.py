@@ -16,7 +16,8 @@ def scrape_quotes():
     result = requests.get('https://motivationping.com/quotes/')
     soup = BeautifulSoup(result.text, 'html.parser')
     body = soup.find(
-        'body', class_='post-template-default single single-post postid-122 single-format-standard')
+        'body', class_='post-template-default single single-post postid-122 single-format-standard'
+    )
 
     raw_quotes = [article.text for article in body.find(
         'div').find_all('strong')]
@@ -25,3 +26,5 @@ def scrape_quotes():
     with open('Discord-Bot/data/motivational_quotes.csv', 'w', newline='') as f:
         writer = csv.writer(f, quoting=csv.QUOTE_ALL)
         writer.writerow(quotes)
+
+scrape_quotes()
