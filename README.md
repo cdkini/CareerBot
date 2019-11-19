@@ -17,6 +17,7 @@ The latest versions of the above (as of 11/19/2019) and Python 3.8.0 are what I'
 Create your own credentials file for the bot's token and save it in the main directory. Tokens can be generated from the developer tools within Discord.
 
 # Usage
+![alt text](images/all_functions.png)
 
 
 
