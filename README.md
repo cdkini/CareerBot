@@ -23,10 +23,14 @@ CareerBot functions are split into three primary categories:
 * <b>Query</b>: Commands regarding the generation of job results based on given criteria.
 * <b>Database</b>: Commands used to access and/or delete saved job results from prior queries.
 
-Functions are called using "-function." For example:
+Functions are called using "-function."
+
+For example:
 -hello --> Returns a greeting. 
 
-For functions that have {brackets} in their description, ensure that you enter a valid argument after calling the function. For example:
+For functions that have {brackets} in their description, ensure that you enter a valid argument after calling the function. 
+
+For example:
 -generate "software developer/new york/entry" --> Returns job postings that meet the given criteria.
 
 Use -help to reveal all available functions and their arguments if you forget.
