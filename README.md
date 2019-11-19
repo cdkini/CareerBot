@@ -7,13 +7,17 @@ Feel free to play around with it in a test server: https://discord.gg/eGWQJqU (R
 ### Dependencies
 * <b>bs4</b>: Used to scrape motivational quotes / job postings.
 * <b>discord</b>: Used to access [Discord's API](https://discordpy.readthedocs.io/en/latest/index.html).
-* <b>pandas</b>:
-* <b>pickle</b>:
-* <b>sqlite3</b>: 
+* <b>pandas</b>: Used to store/organize scraped data.
+* <b>pickle</b>: Serializes pandas dataframes to use between functions.
+* <b>sqlite3</b>: Stores job postings for user.
 
-Python 3.8.0
-Create your own credentials file for the bot's token. Tokens can be generated from the developer tools within Discord.
+The latest versions of the above (as of 11/19/2019) and Python 3.8.0 are what I've used to write up this bot.
+
+### Other
+Create your own credentials file for the bot's token and save it in the main directory. Tokens can be generated from the developer tools within Discord.
 
 # Usage
+
+
 
 # License
