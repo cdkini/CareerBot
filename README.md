@@ -32,7 +32,7 @@ For functions that have {brackets} in their description, ensure that you enter a
 
 <i>For example</i>: <b>-generate "software developer/new york/entry"</b> --> Returns job postings that meet the given criteria.
 
-Use -help to reveal all available functions and their arguments if you forget.
+Use -help to reveal all available functions and their parameters.
 
 # License
 MIT
