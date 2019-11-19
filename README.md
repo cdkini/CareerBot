@@ -9,7 +9,7 @@ Feel free to play around with it in a test server: https://discord.gg/eGWQJqU (R
 * <b>discord</b> (<i>1.3.0a</i>): Used to access [Discord's API](https://discordpy.readthedocs.io/en/latest/index.html).
 * <b>pandas</b> (<i>0.25.2</i>): Used to store/organize scraped data.
 
-Python 3.8.0 was used to write this bot but anything >3.6 should be compatible due to usage of f-strings.
+Python 3.8.0 was used to write this bot but anything 3.6.0 and greater should be compatible due to usage of f-strings.
 
 ### Other
 Create your own credentials file for the bot's token and save it in the main directory (I've used a file named secrets.py, which is noted in the .gitignore). Tokens can be generated from the developer tools within Discord. 
