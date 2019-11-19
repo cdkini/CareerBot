@@ -14,7 +14,7 @@ Feel free to play around with it in a test server: https://discord.gg/eGWQJqU (R
 The latest versions of the above (as of 11/19/2019) and Python 3.8.0 are what I've used to write up this bot.
 
 ### Other
-Create your own credentials file for the bot's token and save it in the main directory. Tokens can be generated from the developer tools within Discord.
+Create your own credentials file for the bot's token and save it in the main directory (I've used a file named secrets.py, which is noted in the .gitignore). Tokens can be generated from the developer tools within Discord. 
 
 # Usage
 ![CareerBot Functions](images/all_functions.PNG)
