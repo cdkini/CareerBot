@@ -16,7 +16,8 @@ def create_db():
                     url text,
                     user text,
                     date text
-                    )""")
+                    )"""
+        )
 
         conn.commit()
         conn.close()
