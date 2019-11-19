@@ -12,6 +12,8 @@ Feel free to play around with it in a test server: https://discord.gg/eGWQJqU
 * <b>discord</b> (<i>1.3.0a</i>): Used to access [Discord's API](https://discordpy.readthedocs.io/en/latest/index.html).
 * <b>pandas</b> (<i>0.25.2</i>): Used to store/organize scraped data.
 
+All other modules are from Python's built-in standard library.
+
 Python 3.8.0 was used to write this bot but 3.6.0 and newer should be compatible due to usage of f-strings.
 
 ### Other
