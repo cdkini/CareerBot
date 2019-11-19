@@ -25,12 +25,12 @@ CareerBot functions are split into three primary categories:
 
 Functions are called using "-function."
 
-For example: -hello --> Returns a greeting. 
+<i>For example</i>: <b>-hello</b> --> Returns a greeting. 
 
 
 For functions that have {brackets} in their description, ensure that you enter a valid argument after calling the function. 
 
-For example: -generate "software developer/new york/entry" --> Returns job postings that meet the given criteria.
+<i>For example</i>: <b>-generate "software developer/new york/entry"</b> --> Returns job postings that meet the given criteria.
 
 Use -help to reveal all available functions and their arguments if you forget.
 
