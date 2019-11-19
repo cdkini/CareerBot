@@ -25,7 +25,7 @@ class General(commands.Cog):
         responses = self.responses['hello']
         await ctx.send(f'{random.choice(responses)}')
 
-    @commands.command(help='Responds with a farewell')
+    @commands.command(help='Responds with parting words')
     async def goodbye(self, ctx):
         responses = self.responses['goodbye']
         await ctx.send(f'{random.choice(responses)}')
