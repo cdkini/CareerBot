@@ -5,11 +5,9 @@ Feel free to play around with it in a test server: https://discord.gg/eGWQJqU (R
 
 # Installation
 ### Dependencies
-* <b>bs4</b>: Used to scrape motivational quotes / job postings.
-* <b>discord</b>: Used to access [Discord's API](https://discordpy.readthedocs.io/en/latest/index.html).
-* <b>pandas</b>: Used to store/organize scraped data.
-* <b>pickle</b>: Serializes pandas dataframes to use between functions.
-* <b>sqlite3</b>: Stores job postings for user.
+* <b>bs4</b> (0.0.1): Used to scrape motivational quotes / job postings.
+* <b>discord</b> (1.3.0a): Used to access [Discord's API](https://discordpy.readthedocs.io/en/latest/index.html).
+* <b>pandas</b> (0.25.2): Used to store/organize scraped data.
 
 The latest versions of the above (as of 11/19/2019) and Python 3.8.0 are what I've used to write up this bot.
 
