@@ -35,3 +35,5 @@ For functions that have {brackets} in their description, ensure that you enter a
 Use -help to reveal all available functions and their arguments if you forget.
 
 # License
+MIT
+This project is meant purely as a means of developing my programming abilities and is not intended to be monetized in any way. If you would like to collaborate or suggest revisions, please fork/pull accordingly!
