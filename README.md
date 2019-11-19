@@ -1,4 +1,4 @@
-![Logo](images/logo.png =50x50)
+![Logo](images/logo.png) <!-- .element height="50%" width="50%" -->
 # CareerBot
 A Discord bot aimed to help aspiring developers (or any job seekers in any industry) identify available job postings based on user criteria and save them for future use. All scraped job data comes from Indeed.com. 
 
