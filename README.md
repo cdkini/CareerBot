@@ -18,7 +18,14 @@ Create your own credentials file for the bot's token and save it in the main dir
 
 # Usage
 ![CareerBot Functions](images/all_functions.PNG)
+CareerBot functions are split into three primary categories: General, Query, and Database.
 
+Functions are called using "-function." For example:
+-hello --> Returns a greeting. 
 
+For functions that have {brackets} in their description, ensure that you enter a valid argument after calling the function. For example:
+-generate "software developer/new york/entry" --> Returns job postings that meet the given criteria.
+
+Use -help to reveal all available functions and their arguments if you forget.
 
 # License
