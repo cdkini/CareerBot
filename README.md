@@ -2,9 +2,7 @@
 # <img src="images/logo.png" width="42.5" height="37.5">CareerBot
 A Discord bot aimed to help aspiring developers (or any job seekers in any industry) identify available job postings based on user criteria and save them for future use. All scraped job data comes from Indeed.com. 
 
-Feel free to play around with it in a test server: https://discord.gg/eGWQJqU 
-
-(Requires a Discord account to actually use but one can view with just the link.)
+I've created a test server so that you can see how it works (no Discord account required): https://discord.gg/eGWQJqU 
 
 # Installation
 ### Dependencies
